@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+    }
+
+.container-content
+{
+
+    background: #eff0f5;
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+
+.container-content img{
+    height: 300px;
+    width: 300px;
+}
+
+img.imgcenter
+{
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+  display: block;
+}
+ div.desc, p , .many-content{
+text-align: center;
+          margin-top: 10px;
+              margin: 0;
+              padding: 6px;}
+ button
+ {
+ background-color:#007bff;
+ cursor: pointer;}
