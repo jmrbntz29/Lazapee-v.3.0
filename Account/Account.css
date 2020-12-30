@@ -1,0 +1,33 @@
+	h1{
+    text-align: center;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+    td, th {
+      text-align: left;
+      padding: 12px;
+    }
+     .account-container a {
+     float: right;
+     text-decoration: none;
+     color:#252f7b; }
+
+     .account-container a:hover 
+      {
+          color: #f95031 ;
+      }
+      .account-container a.active {
+        color:#252f7b;
+      }  
+
+
+    .account-container {
+        width:100%;
+        background-color: #ffffff;
+        margin: auto;
+        margin-bottom: 40px;
+        height: auto;
+        }
