@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    }
+
+.container-content
+{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: center;
+    background: #ffffff;
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+.container-content a
+{    
+    height: 330px;
+    width: 290px;
+    margin: 20px;
+    padding-top: 20px;
+}
+
+
+.container-content a img{
+    height: 300px;
+    width: 300px;
+}
+     div.desc {
+         padding: 15px;
+         text-align: left;
+          margin-top: 10px;
+              margin: 0;
+       }
+              .special {
+           text-align: left;
+            margin-top: 1em;
+            margin: 0;
+       }
+ 
